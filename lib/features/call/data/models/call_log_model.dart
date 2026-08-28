@@ -1,4 +1,4 @@
-import '../entities/call_log.dart';
+import '../../domain/entities/call_log.dart';
 
 class CallLogModel extends CallLog {
   const CallLogModel({

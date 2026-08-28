@@ -1,5 +1,5 @@
-import '../entities/chat_conversation.dart';
-import '../entities/chat_message.dart';
+import '../../domain/entities/chat_conversation.dart';
+import '../../domain/entities/chat_message.dart';
 
 class ChatConversationModel extends ChatConversation {
   const ChatConversationModel({

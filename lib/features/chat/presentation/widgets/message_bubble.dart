@@ -61,7 +61,7 @@ class MessageBubble extends StatelessWidget {
         ),
         child: Wrap(
           alignment: WrapAlignment.end,
-          crossAxisAlignment: WrapCrossAlignment.bottom,
+          crossAxisAlignment: WrapCrossAlignment.end,
           children: [
             Padding(
               padding: const EdgeInsets.only(right: 6.0, bottom: 2.0),

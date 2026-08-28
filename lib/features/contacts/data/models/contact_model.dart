@@ -1,4 +1,4 @@
-import '../entities/contact.dart';
+import '../../domain/entities/contact.dart';
 
 class ContactModel extends Contact {
   const ContactModel({
